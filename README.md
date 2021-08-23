@@ -26,17 +26,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Devon-T29/CodePath-SimpleToDo/blob/main/SimpleToDo.GIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ScreentoGif](http://screentogif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I encountered a few errors while installing the app and creating the virtual device but those were easily fixable. I only encounter one problem while coding and that was when I was using the "FileUtils" function class & the functions in the class were not recognized. After doing research I found that the import command automatically added by android studio is outdated and does not contain the correct functions. I found the correct import command which was "import org.apache.commons.io.FileUtils;" and everything worked as it should after that.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Devon Traywick]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
